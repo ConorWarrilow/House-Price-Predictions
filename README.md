@@ -1,5 +1,3 @@
 # House Price Predictions
-Using an ensemble model to predict house prices, final performance is within the top 200 on the leaderboard.
-Pycaret was used to give an idea as to how certain models perform before tuning, allowing us to select the models that are most likely to perform well.
-Oputna was then used to automatically find hyperparameters for the 5 models used. 
-There is likely room to improve, feature engineering could improve performance.
+A bagging ensemble was used to predict house prices, the final performance was within the top 200 on the leaderboard.
+There's no doubt still room to improve, no real feature engineering was performed.
